@@ -1,2 +1,2 @@
 # Correct-o-matic
-An simple Autocorrect tool.
+A simple Autocorrect tool.
